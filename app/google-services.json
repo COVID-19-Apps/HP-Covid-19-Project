@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329703195062",
+    "firebase_url": "https://hp-covid-19-project.firebaseio.com",
+    "project_id": "hp-covid-19-project",
+    "storage_bucket": "hp-covid-19-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329703195062:android:876583119408f4cbe3c117",
+        "android_client_info": {
+          "package_name": "com.hpcovid19project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329703195062-h46ta0r7t1rav900hghrl74p6m7pcc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClX8dZjQje7FnmJbkyrp8fpqhoQUQJC6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329703195062-h46ta0r7t1rav900hghrl74p6m7pcc49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
